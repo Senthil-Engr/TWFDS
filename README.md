@@ -1,2 +1,2 @@
-# TripAdvisor_Clone
-TripAdvisor Website Clone Project
+# Threaded with fantasy design studio 
+Threaded with fantasy design studio
